@@ -26,4 +26,4 @@ latest_posts:
 
 I am a Ph.D. student in Statistics at the University of Washington, focusing on supervised learning and related numerical methods. I am supported by the Amazon Post-Intern Fellowship in the 25-26 academic year. 
 
-[CV](https://drive.google.com/file/d/1mP2e3HIRRji-Ov4kAyzT-TUcTdzLnxxs/view?usp=drive_link)  [Google Scholar](https://scholar.google.com/citations?user=s_dcpB4AAAAJ&hl=en&oi=ao)  [Github](https://github.com/keunwoolim)
+[CV](https://drive.google.com/file/d/1mP2e3HIRRji-Ov4kAyzT-TUcTdzLnxxs/view?usp=drive_link)      [Google Scholar](https://scholar.google.com/citations?user=s_dcpB4AAAAJ&hl=en&oi=ao)      [Github](https://github.com/keunwoolim)
